@@ -3,5 +3,7 @@ extra-package-dbs: []
 packages:
 - a
 - b
+- libs/m
+- libs/n
 extra-deps: []
 resolver: lts-8.2
