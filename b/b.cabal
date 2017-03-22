@@ -1,7 +1,7 @@
 name:                b
 version:             0.1.0.0
--- synopsis:
--- description:
+synopsis:            test tool stack
+description:         a main using package a
 homepage:            https://github.com/githubuser/b#readme
 license:             BSD3
 license-file:        LICENSE
