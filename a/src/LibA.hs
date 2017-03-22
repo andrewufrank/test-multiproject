@@ -6,5 +6,5 @@ someFunc = putStrLn "someFunc"
 otherFunc :: IO ()
 otherFunc = putStrLn "otherFunc"
 
--- thirdFunc :: IO ()
--- thirdFunc = putStrLn "thirdFunc"
+thirdFunc :: IO ()
+thirdFunc = putStrLn "thirdFunc"
