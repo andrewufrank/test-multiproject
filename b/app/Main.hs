@@ -4,4 +4,6 @@ import LibA
 import LibM
 
 main :: IO ()
-main = thirdFuncM
+main = do
+        thirdFuncM
+        otherFunc  -- from a
