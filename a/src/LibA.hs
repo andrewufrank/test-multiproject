@@ -1,6 +1,6 @@
 module LibA where
 
-import LibN
+import           LibN
 
 someFunc :: IO ()
 someFunc = putStrLn "someFunc"

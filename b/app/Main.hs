@@ -1,7 +1,7 @@
 module Main where
 
-import LibA
-import LibM
+import           LibA
+import           LibM
 
 main :: IO ()
 main = do
